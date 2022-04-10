@@ -73,7 +73,6 @@ TBD allows users to coordinate group plans and trips through its combination of 
 
 * Login
    * Feed
-   * ...
 * Register
    * Feed
 * Feed
