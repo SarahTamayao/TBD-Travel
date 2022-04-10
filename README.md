@@ -82,8 +82,7 @@ TBD allows users to coordinate group plans and trips through its combination of 
     * Feed
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/OlirEswar/TBD_Travel_By_Decision/blob/main/20220410_172435.jpg" width=600>
+<img src="https://github.com/OlirEswar/TBD_Travel_By_Decision/blob/main/TBD_Wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
