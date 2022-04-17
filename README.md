@@ -73,6 +73,7 @@ TBD allows users to coordinate group plans and trips through its combination of 
 
 * Login
    * Feed
+   * ...
 * Register
    * Feed
 * Feed
@@ -82,17 +83,69 @@ TBD allows users to coordinate group plans and trips through its combination of 
     * Feed
 
 ## Wireframes
-<img src="https://github.com/OlirEswar/TBD_Travel_By_Decision/blob/main/TBD_Wireframe.jpg" width=600>
+[Add picture of your hand sketched wireframes in this section]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+**Users**
+| **Property** | **Type** | **Description** |
+|--------------|----------|-----------------|
+|userID | String | unique ID for each user
+|username | String | name associated with unique user |
+|password | String | password used for authentication |
+
+
+**Messages**
+| **Property** | **Type** | **Description** |
+|--------------|----------|-----------------|
+| content | String | actual text to be sent |
+| author | String | username of User sending message |
+| createdAt | DateTime | date when message is sent |
+
+
+**Group Chats**
+| **Property** | **Type** | **Description** |
+|--------------|----------|-----------------|
+| users | Pointer to User | list of all included users |
+| messages | String | messages sent in groupchats |
+
+**Polls**
+| **Property** | **Type** | **Description** |
+|--------------|----------|-----------------|
+| question | String | description of voting question |
+| options | Object | object of options for poll |
+| optionCount | Number | count of votes for each option |
+
+**Schedules**
+| **Property** | **Type** | **Description** |
+|--------------|----------|-----------------|
+| event | String | description of activity |
+| time | DateTime | date of event occurrence |
+| createdAt | DateTime | time event was created |
+| authorID | Pointer to User | User who created event |
+| isAdopted | Boolean | True if event is confirmed by vote |
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Login
+    * (Read/GET) Authenticate user if they log in
+* Register 
+   * (Create/POST) Create new user if they sign up
+* Feed
+   * (Read/GET) Query all groups that user is a part of
+* Group Creation
+    * (Create/POST) Create new group chat with added users
+* Group Chat
+    * (Read/GET) Query previous messages
+    * (Create/POST) Post a new messages to send
+* Schedule
+    * (Read/GET) Query events for current schedule
+    * (Update/PUT) Add new event to schedule 
+* Poll Creation
+    * (Read/GET) Query polls in chat with proposal, options, and current votes for each
+    * (Update/PUT) Add numbers for new votes
