@@ -152,5 +152,5 @@ TBD allows users to coordinate group plans and trips through its combination of 
 
 GIF of storyboard: 
 
-<img src="Yhttp://g.recordit.co/PpGCSsn2Ky.gif" width=250><br>
+<img src="http://g.recordit.co/PpGCSsn2Ky.gif" width=250><br>
 
