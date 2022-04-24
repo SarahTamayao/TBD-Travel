@@ -149,3 +149,5 @@ TBD allows users to coordinate group plans and trips through its combination of 
 * Poll Creation
     * (Read/GET) Query polls in chat with proposal, options, and current votes for each
     * (Update/PUT) Add numbers for new votes
+
+GIF of storyboard: http://g.recordit.co/PpGCSsn2Ky.gif
