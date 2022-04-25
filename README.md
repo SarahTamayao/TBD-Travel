@@ -154,3 +154,8 @@ GIF of storyboard:
 
 <img src="http://g.recordit.co/PpGCSsn2Ky.gif" width=250><br>
 
+GIF of Login and Register:
+
+http://g.recordit.co/4ktcf6CPmR.gif
+
+
