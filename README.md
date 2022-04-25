@@ -158,4 +158,6 @@ GIF of Login and Register:
 
 http://g.recordit.co/4ktcf6CPmR.gif
 
+<img src="http://g.recordit.co/4ktcf6CPmR.gif" width=250><br>
+
 
