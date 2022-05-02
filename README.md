@@ -43,19 +43,19 @@ TBD allows users to coordinate group plans and trips through its combination of 
 ### 2. Screen Archetypes
 
 * Login
-    * Users can login.
+    * Users can login. [x]
 * Register 
-   * Users can create a new account and login.
+   * Users can create a new account and login. [x]
 * Feed
    * Users can see the a list of the travel groups that they are in.
    * Users can tap on a group to view details.
 * Group Creation
     * Users can invite other users to form a new group
 * Group Chat
-    * Users can view and send messages with each other.
+    * Users can view and send messages with each other. [x]
 * Schedule
     * Users can view a schedule that lists events and associated times on the travel plan.
-    * Users can add suggestions to the schedule.
+    * Users can add suggestions to the schedule. [x]
 * Poll Creation
     * Users can create a poll which other group members can vote on.
     * Polls appear in the chat window
