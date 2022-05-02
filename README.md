@@ -160,4 +160,8 @@ http://g.recordit.co/4ktcf6CPmR.gif
 
 <img src="http://g.recordit.co/4ktcf6CPmR.gif" width=250><br>
 
+GIF of Sample Chat:
+
+<img src="http://g.recordit.co/y6xy0jaPk9.gif" width=250><br>
+* Note: still needs to be integrated into main app
 
