@@ -165,3 +165,7 @@ GIF of Sample Chat:
 <img src="http://g.recordit.co/y6xy0jaPk9.gif" width=250><br>
 * Note: still needs to be integrated into main app
 
+GIF of Database Updates for Schedule Feature:
+
+<img src="http://g.recordit.co/nb5V6hhcZS.gif" wdith=250><br>
+
