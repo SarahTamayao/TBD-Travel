@@ -169,3 +169,12 @@ GIF of Database Updates for Schedule Feature:
 
 <img src="http://g.recordit.co/nb5V6hhcZS.gif" wdith=250><br>
 
+<img src="<img width="482" alt="Screen Shot 2022-05-08 at 8 54 20 PM" src="https://user-images.githubusercontent.com/92946878/167333638-3c20e802-3a8d-4dac-a2b9-dc21faea4077.png">
+
+<img width="482" alt="Screen Shot 2022-05-08 at 8 53 37 PM" src="https://user-images.githubusercontent.com/92946878/167333663-9b6cb909-68da-4d8f-8e28-ded7b8ffe736.png">
+
+<img width="482" alt="Screen Shot 2022-05-08 at 8 53 53 PM" src="https://user-images.githubusercontent.com/92946878/167333670-6ba10976-06d5-482a-a1d7-54a13fda7e6a.png">
+
+
+<img width="482" alt="Screen Shot 2022-05-08 at 8 54 34 PM" src="https://user-images.githubusercontent.com/92946878/167333676-6fe31e49-392e-454b-80cb-6a316cee222b.png">
+
