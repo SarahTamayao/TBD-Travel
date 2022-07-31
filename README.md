@@ -27,38 +27,15 @@ TBD allows users to coordinate group plans and trips through its combination of 
 
 **Required Must-have Stories**
 
-* User sees app icon in home screen and styled launch screen
 * Users can sign up and login
-* Users can create groups and view and send messages
-* Users can create polls within groups
-* Users can view a schedule of their group travel plan
-* Users can flow between each of these pages
 
-**Optional Nice-to-have Stories**
-
-* Users can view and mark shared maps within their groups 
-* Users can allocate a budget for their group
-* Users can see their previous trips and reload if 
 
 ### 2. Screen Archetypes
 
 * Login
-    * Users can login. [x]
+    * Users can login.
 * Register 
-   * Users can create a new account and login. [x]
-* Feed
-   * Users can see the a list of the travel groups that they are in.
-   * Users can tap on a group to view details.
-* Group Creation
-    * Users can invite other users to form a new group
-* Group Chat
-    * Users can view and send messages with each other. [x]
-* Schedule
-    * Users can view a schedule that lists events and associated times on the travel plan.
-    * Users can add suggestions to the schedule. [x]
-* Poll Creation
-    * Users can create a poll which other group members can vote on.
-    * Polls appear in the chat window
+   * Users can create a new account and login.
 
 
 ### 3. Navigation
@@ -66,21 +43,8 @@ TBD allows users to coordinate group plans and trips through its combination of 
 **Tab Navigation** (Tab to Screen)
 
 * Group Chat
-* Schedule
-* Poll Creation
 
-**Flow Navigation** (Screen to Screen)
 
-* Login
-   * Feed
-   * ...
-* Register
-   * Feed
-* Feed
-    * Group Creation
-    * Group Chat
-* Group Creation
-    * Feed
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
